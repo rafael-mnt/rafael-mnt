@@ -2,12 +2,12 @@
 
 I’m currently learning Python and Pandas so I can enter the Machine Learning field
 
-
+<img src="https://github.com/rafael-mnt/rafael-mnt/blob/main/Octocat%20-%20avatar.png?raw=true" alt="Descrição da imagem" width="150"/>
 
 ##
 <div>
 <a href="https://github.com/rafael-mnt">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-mnt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-mnt&layout=compact&langs_count=7&theme=midnight-purple"/><img src="https://github.com/rafael-mnt/rafael-mnt/blob/main/Octocat%20-%20avatar.png?raw=true" alt="Descrição da imagem" width="150"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-mnt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-mnt&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 
