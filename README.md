@@ -1,4 +1,6 @@
-## <img src="https://github.com/rafael-mnt/rafael-mnt/blob/main/Octocat%20-%20avatar.png?raw=true" alt="Descrição da imagem" width="150"/> Hello, welcome to my profile!
+## Hello, welcome to my profile!
+<img src="https://github.com/rafael-mnt/rafael-mnt/blob/main/Octocat%20-%20avatar.png?raw=true" alt="Descrição da imagem" width="150"/>
+
 
 I’m currently learning Python and Pandas so I can enter the Machine Learning field
 
