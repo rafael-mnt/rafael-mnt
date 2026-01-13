@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil 😊
+## Welcome to my profile!
 
 - 💻 Estudando Python
 - 💡 Objetivo em Inteligência Articifial
