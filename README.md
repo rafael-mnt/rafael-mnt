@@ -1,8 +1,8 @@
 ## Welcome to my profile!
 
-- 💻 Estudando Python
-- 💡 Objetivo em Inteligência Articifial
-- 📧 Contato: rafaelmnt@outlook.com.br
+- 💻 C#
+- 🕹️ Game Development
+- 📧 Contact: rafaelmnt@outlook.com.br
 <br>
 
 
