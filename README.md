@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
-- 💻 C#
-- 🕹️ Game Development
+- 💻 Python
+- 💡 Backend
 - 📧 Contact: rafaelmnt@outlook.com.br
 <br>
 
